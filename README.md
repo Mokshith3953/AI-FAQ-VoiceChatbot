@@ -6,23 +6,6 @@ It allows users to ask questions via voice and receive intelligent answers, whil
  Full Project Download (Over 100 MB)
 
 This GitHub repo contains only essential files due to GitHub’s 100MB limit.  
-The complete working project (with all static files, media, and dependencies) is available via Google Drive:
-
-👉 **[📥 Download Full Project Folder](https://drive.google.com/file/d/1xemhEt6xxLOtJOQOQ1L9Ap-eDI5AMoEz/view?usp=drive_link)**
-
----
-
-## 💡 Features Overview
-
-- 🎤 Voice-based question input (record & convert to text)
-- 🧠 AI model matches best FAQ answers
-- 🛠 Admin panel to manage FAQs and retrain model
-- 👤 User panel to interact with the bot and hear responses
-- 💾 Voice recordings are saved, downloadable, and replayable
-
---
-
----
 
 ## 📂 How to Use the Static Folder
 
@@ -38,3 +21,15 @@ To ensure styles, images, and audio features work:
 AND PASTE IT INTO 
 
 ChatbotApp/static/
+
+
+
+## 💡 Features Overview
+
+- 🎤 Voice-based question input (record & convert to text)
+- 🧠 AI model matches best FAQ answers
+- 🛠 Admin panel to manage FAQs and retrain model
+- 👤 User panel to interact with the bot and hear responses
+- 💾 Voice recordings are saved, downloadable, and replayable
+
+
