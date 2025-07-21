@@ -11,7 +11,7 @@ This GitHub repo contains only essential files due to GitHub’s 100MB limit.
 
 To ensure styles, images, and audio features work:
 
-1. Download the full project from Google Drive:  
+1. Download the file from Google Drive:  
    👉 [📥 Click here](https://drive.google.com/file/d/1xemhEt6xxLOtJOQOQ1L9Ap-eDI5AMoEz/view?usp=drive_link)
 
 2. Extract the ZIP file
